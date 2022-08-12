@@ -1,7 +1,7 @@
 #!/bin/bash
 
-echo "Esse script vai instalar o Apache em seu Ubutu server ou AWS.
-deseja continuar? CTRL+C cancelar | Enter Continuar: "; read ok
+echo "Esse script vai instalar o Apache em seu Ubuntu server ou AWS.
+Deseja continuar? CTRL+C cancelar | Enter Continuar: "; read ok
 
 # Atualizando o servidor
 echo "Preparando atualizacao do sistema..."
